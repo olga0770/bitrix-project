@@ -1,0 +1,28 @@
+.crm-webform-input {
+    border: 0;
+    padding: 15px;
+    border-radius: 25px;
+    background-color: #EDEDED;
+    box-sizing: border-box;
+}
+
+.crm-webform-input-label {
+}
+
+.crm-webform-submit-button {
+    border: 0;
+    padding: 15px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    display: block !important;
+}
+
+
+.crm-webform-fieldset .row:nth-child(1) {
+    float: left;
+}
+
+.crm-webform-fieldset .row:nth-child(2) {
+    float: right;
+}
+

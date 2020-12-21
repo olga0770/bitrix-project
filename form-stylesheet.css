@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('lato/Lato-Light.eot');
+    src: local('Lato Light'), local('Lato-Light'),
+    url('lato/Lato-Light.eot?#iefix') format('embedded-opentype'),
+    url('lato/Lato-Light.woff') format('woff'),
+    url('lato/Lato-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+body {
+    font-weight: 500;
+    font-family: "Lato", Helvetica, Arial, sans-serif !important;
+    line-height: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: "liga", "kern";
+    text-rendering: optimizelegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", Helvetica, Arial, sans-serif !important;
+    line-height: normal;
+}
+button.crm-webform-submit-button {
+    height: 78px;
+    border: 2px solid #E7EA9D !important;
+    border-radius: 39px;
+    background-color: #E7EA9D !important;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 14px;
+    width: 100%;
+    color: #222222 !important;
+}
+button.crm-webform-submit-button:hover {
+    background-color: rgba(255,255,255,0) !important;
+    border: 2px solid #222222 !important;
+    color: #222222;
+}
+
+.crm-webform-group input {
+    border-radius: 25px;
+    background-color: #EDEDED;
+    border: 2px solid #EDEDED;
+}
+
+.crm-webform-group textarea {
+    border-radius: 30px;
+    background-color: #EDEDED;
+    border: 2px solid #EDEDED;
+}
+
+.crm-webform-group input:hover, .crm-webform-group textarea:hover {
+    border: 2px solid #222222;
+}
+
+.crm-webform-group input:focus, .crm-webform-group textarea:focus {
+    border: 2px solid #222222;
+}
+
+.crm-webform-input-label {
+    background-color: #ffffff;
+}
+
+.crm-webform-label-title label {
+    color: #bbbbbb;
+    margin-top: 10px;
+}

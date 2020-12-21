@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<div id="block924" class="container crm-webform-main-container">
+    <div>
+        <h2 class="crm-webform-header">Подпишитесь на рассылку ДС Групп</h2>
+        <!--<h2 class="crm-webform-header">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h2>-->
+    </div>
+</div>
+
+
+<script>
+/*    function changeStringColor() {
+        const str = document.getElementsByClassName("crm-webform-header");
+        document.getElementsByClassName("crm-webform-header")[0].innerHTML = str.replace("ДС Групп", "<span style='color:#E7EA9D'>ДС Групп</span>");
+    }
+    changeStringColor();*/
+
+
+    const element = document.getElementsByTagName("H2")[0];
+    const str = element.innerHTML;
+    const text = str.replace("ДС Групп", "<span style='color:#E7EA9D !important;'>ДС Групп</span>");
+    element.innerHTML = text;
+
+
+/*    const element = document.getElementsByClassName('crm-webform-header')[0];
+    const str = element.innerHTML;
+    const text = str.replace("typesetting industry", "typesetting&nbsp;industry");
+    element.innerHTML = text;*/
+
+
+</script>
+
+
+<!--<script>
+    function myFunction() {
+        var x = document.getElementsByClassName("example");
+        x[0].innerHTML = "Hello World!";
+    }
+</script>-->
+
+
+<
+
+<!--<script src="newsletter-form-change-header.js"></script>-->
+
+
+</body>
+</html>

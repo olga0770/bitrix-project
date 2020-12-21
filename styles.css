@@ -1,0 +1,855 @@
+body {
+    font-weight: 500;
+    font-family: "Lato", Helvetica, Arial, sans-serif !important;
+    line-height: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: "liga", "kern";
+    text-rendering: optimizelegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", Helvetica, Arial, sans-serif !important;
+    line-height: normal;
+    font-weight: 300;
+}
+
+/* Page Front Page - start */
+/* nav start #block1498 */
+.landing-block-node-menu-list li a {
+    font-family: "Lato", Helvetica, Arial, sans-serif !important;
+}
+.landing-block-node-menu-list-item.active {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #222222 !important;
+}
+.landing-block-node-menu-list li:last-child a {
+    border-bottom: 2px dashed currentColor !important;
+    border-bottom-color: rgba(0, 0, 0, 0.21) !important;
+    color: #222222 !important;
+    font-weight: 900 !important;
+}
+/* nav end #block1498 */
+
+
+/* carousel start */
+#block266 {
+    font-weight: 300 !important;
+}
+#block266 .landing-block-node-card-text p {
+    padding-left: 0;
+}
+#block266 .landing-block-node-card-text.mx-auto {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.landing-block-node-card-button-container a {
+    padding: 30px 60px 30px 60px !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px !important;
+    font-size: 14px !important;
+}
+.landing-block-node-card-button-container a:hover {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+/*#block266 .js-carousel .js-slide:nth-child(2) .landing-block-node-card-title p {
+    font-size: 144px;
+}*/
+/* carousel end */
+
+
+/* Title Наши услуги - Start */
+#block1630 {
+    margin-top: -30px;
+}
+/* Title Наши услуги - End */
+
+
+/* Sections Наши услуги - start  */
+#block914 h2.landing-block-node-title, #block2382 h2.landing-block-node-title, #block2384 h2.landing-block-node-title,
+#block916 h2.landing-block-node-title, #block2386 h2.landing-block-node-title {
+    font-weight: 500 !important;
+    letter-spacing: -1px !important;
+    font-size: 45px !important;
+}
+h3.landing-block-node-title span {
+    font-weight: 300 !important;
+}
+h2.landing-block-node-title span {
+    border-bottom: 3px solid currentColor;
+    border-bottom-color: #e2e2e2 !important;
+}
+.landing-block-node-container {
+    max-width: 1140px !important;
+}
+#block914 .g-pr-170, #block2382 .g-pr-170, #block2384 .g-pr-170, #block916 .g-pr-170, #block2386 .g-pr-170 {
+    padding: 0 !important;
+}
+#block914 .g-pb-150, #block2382 .g-pb-150, #block2384 .g-pb-150, #block916 .g-pb-150, #block2386 .g-pb-150 {
+    padding: 0 !important;
+}
+#block914 .g-pt-80, #block2382 .g-pt-80, #block2384 .g-pt-80, #block916 .g-pt-80, #block2386 .g-pt-80 {
+    padding: 0 !important;
+}
+#block914 h2.landing-block-node-title, #block914 .landing-block-node-text, #block2382 h2.landing-block-node-title, #block2382 .landing-block-node-text,
+#block2384 h2.landing-block-node-title, #block2384 .landing-block-node-text, #block916 h2.landing-block-node-title, #block916 .landing-block-node-text,
+#block2386 h2.landing-block-node-title, #block2386 .landing-block-node-text {
+    max-width: 570px !important;
+}
+#block916 .landing-block-node-container, #block2386 .landing-block-node-container {
+    padding-left: 40vw !important;
+}
+#block914 .landing-block-node-text, #block2382 .landing-block-node-text,
+#block2384 .landing-block-node-text, #block916 .landing-block-node-text,
+#block2386 .landing-block-node-text {
+    padding-top: 30px !important;
+}
+#block914 .landing-block-node-text ul, #block2382 .landing-block-node-text ul,
+#block2384 .landing-block-node-text ul, #block916 .landing-block-node-text ul,
+#block2386 .landing-block-node-text ul {
+    padding-left: 20px !important;
+}
+#block914 .landing-block-node-text ul li, #block2382 .landing-block-node-text ul li,
+#block2384 .landing-block-node-text ul li, #block916 .landing-block-node-text ul li,
+#block2386 .landing-block-node-text ul li {
+    margin-bottom: 5px !important;
+}
+/* Sections Наши услуги - end  */
+
+
+/* Block926 - Расскажите о вашей задаче + form - start  */
+#block926 .landing-block-node-bgimg .row {
+    flex-direction: row-reverse !important;
+}
+#block926 .landing-block-node-title span {
+    font-weight: 300 !important;
+    letter-spacing: 3px !important;
+    font-size: 60px !important;
+}
+#block926 .landing-block-node-subtitle {
+    margin-left: 0;
+}
+#block926 .landing-block-node-text p {
+    color: #282828 !important;
+    margin-top: 80px !important;
+    margin-bottom: -20px !important;
+    letter-spacing: 1px !important;
+}
+#block926 .landing-block-node-button {
+    padding: 30px !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px !important;
+    font-size: 14px !important;
+    display: block !important;
+    margin-top: 0;
+    margin-left: -10px;
+}
+#block926 .landing-block-node-button:hover {
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #222222 !important;
+}
+#block1926 .g-bg-white {
+    height: 575px;
+}
+#block926 .g-bg-primary-dark-v1 {
+    background-color: #e5e5e5 !important;
+}
+/* Block926 - Расскажите о вашей задаче + form - end  */
+
+
+/* Block 366 - Новости, акции, лайфхаки и мероприятия - start  */
+#block366 .landing-block-node-title {
+    font-weight: 300 !important;
+}
+/* Block 366 - Новости, акции, лайфхаки и мероприятия - end  */
+
+
+/* Block 928 - Гордимся уникальным штатом экспертов - start  */
+#block928 .landing-block-node-container {
+    padding-top: 60px;
+}
+#block928 .g-max-width-800 {
+    max-width: 100% !important;
+}
+#block928 h2.landing-block-node-card-title {
+    font-weight: 300 !important;
+}
+#block928 .landing-block-node-card-button-container a {
+    background-color: #E7EA9D !important;
+    color: #2C2C2C !important;
+    padding: 30px 60px 30px 60px !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px !important;
+    font-size: 14px !important;
+    margin-top: 0;
+}
+#block928 .landing-block-node-card-button-container a:hover {
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #ffffff !important;
+}
+/* Block 928 - Гордимся уникальным штатом экспертов - end  */
+
+
+
+/* Carousel - Новости, лайфхаки и мероприятия - start */
+@media (min-width: 992px) {
+    .landing-block-inner.row.slick-initialized.slick-slider {
+        display: block !important;
+    }
+    .slick-slide {
+        flex: none;
+        float: left;
+        height: 100%;
+        min-height: 1px;
+    }
+}
+#block2287 .landing-block-node-text.landing-semantic-text-medium.g-pt-8.g-color-black {
+    height: 50px;
+    overflow-y: hidden;
+}
+#block2287 .slick-dots li button:before {
+    font-size: 12px;
+    line-height: 20px;
+}
+#block2287 .slick-dots li {
+    width: 10px !important;
+}
+#block2287 button.slick-prev, #block2287 button.slick-next {
+    display: none !important;
+}
+/* Carousel - Новости, лайфхаки и мероприятия - end */
+
+
+/* Carousel - Наши клиенты -start */
+#block364 .u-arrow-v1[class*="abs"]::before {
+    color: #ccc !important;
+}
+/* Carousel - Наши клиенты -end */
+
+
+
+/* Footer block2147 Newsletter - Start */
+#block2147 .bitrix24forms {
+    border: rgba(255, 255, 255, 0) !important;
+    margin-left: -120px !important;
+    margin-top: 20px !important;
+}
+.crm-webform-iframe {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+/* Footer block2147 Newsletter - End */
+
+
+
+/* Mobile - Start */
+@media only screen and (max-width: 600px) {
+
+    /* Mobile Nav - start*/
+    nav.navbar.navbar-expand-lg {
+        margin-top: -10px;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    .navbar-collapse {
+        max-height: 100% !important;
+        background-color: #fff !important;
+        margin: -100px -20px 0 -20px !important;
+    }
+    ul.landing-block-node-menu-list {
+        padding: 30px 20px 0 20px !important;
+        margin-top: 100px !important;
+    }
+    li.landing-block-node-menu-list-item a.landing-block-node-menu-list-item-link {
+        font-size: 13px !important;
+        margin-top: 20px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    li.landing-block-node-menu-list-item.active {
+        border-bottom: 0 !important;
+        padding-bottom: 0;
+    }
+    ul.landing-block-node-menu-list li:last-child a {
+        margin-bottom: 30px !important;
+        text-decoration-style: dashed !important;
+        text-decoration-line: underline !important;
+        text-decoration-color: rgba(0, 0, 0, 0.2) !important;
+        border-bottom: 0 currentColor !important;
+        border-bottom-color: #fff !important;
+    }
+    /* Mobile Nav - end*/
+
+
+    /* Mobile Carousel - start*/
+    #block2100 .landing-block-node-card-img {
+        align-items: flex-start !important;
+        padding-top: 140px !important;
+    }
+    #block2100 h2.landing-block-node-card-title {
+        font-size: 50px !important;
+        font-weight: 300 !important;
+        line-height: normal;
+    }
+    #block2100 .landing-block-node-card-text p, #block2100 .landing-block-node-card-text {
+        font-size: 20px !important;
+        font-weight: 300 !important;
+        line-height: 1.4;
+    }
+    .landing-block-node-card-button-container a {
+        padding: 20px 60px 20px 60px !important;
+    }
+    /*    #block2100 .landing-block-node-card:nth-child(2) .landing-block-node-card-title p span {
+            font-size: 90px;
+        }*/
+    /* Mobile Carousel - End*/
+
+
+    /* Mobile Наши услуги Title - Start */
+    #block1630 h3.landing-block-node-title {
+        font-size: 50px !important;
+    }
+    /* Mobile Наши услуги Title - End */
+
+
+    /* Mobile Наши услуги Sections - start  */
+    #block2102 h2.landing-block-node-title, #block2104 h2.landing-block-node-title, #block2106 h2.landing-block-node-title,
+    #block2418 h2.landing-block-node-title, #block2110 h2.landing-block-node-title {
+        font-weight: 500 !important;
+        letter-spacing: -1px !important;
+        font-size: 30px !important;
+    }
+    h2.landing-block-node-title.landing-semantic-title-image-medium span {
+        border-bottom: 3px solid currentColor;
+        border-bottom-color: #e2e2e2 !important;
+    }
+    h3.landing-block-node-title.landing-semantic-title-medium span {
+        font-size: 40px !important;
+    }
+    .landing-block-node-text.landing-semantic-text-image-medium {
+        margin-top: 30px !important;
+        padding-top: 0 !important;
+    }
+    .landing-block.landing-block-node-img.u-bg-overlay.g-flex-centered {
+        padding-left: 15px !important;
+        padding-right: 30px !important;
+        align-items: flex-start !important;
+        justify-content: left !important;
+    }
+    #block2102 .landing-block-node-container.container, #block2104 .landing-block-node-container.container, #block2106 .landing-block-node-container.container,
+    #block2418 .landing-block-node-container.container, #block2110 .landing-block-node-container.container {
+        padding-top: 30px !important;
+    }
+    #block2102 .landing-block-node-text ul, #block2104 .landing-block-node-text ul, #block2106 .landing-block-node-text ul,
+    #block2418 .landing-block-node-text ul, #block2110 .landing-block-node-text ul {
+        padding-left: 20px !important;
+    }
+    #block2102 .landing-block-node-text ul li, #block2104 .landing-block-node-text ul li,
+    #block2106 .landing-block-node-text ul li, #block2418 .landing-block-node-text ul li,
+    #block2110 .landing-block-node-text ul li {
+        margin-bottom: 5px !important;
+    }
+    .landing-block-node-form.align-self-center {
+        padding: 0 !important;
+    }
+    /* Mobile Наши услуги Sections - end  */
+
+
+    /* Mobile Block2112 - Расскажите о вашей задаче + form - start */
+    #block2112 section.g-pos-rel.landing-block {
+        background-color: #e5e5e5 !important;
+    }
+    #block2112 .container.g-pos-rel {
+        margin-top: -130px !important;
+    }
+    #block2112 .landing-block-node-bgimg .row {
+        flex-direction: column-reverse !important;
+    }
+    #block2112 .landing-block-node-button {
+        padding: 20px !important;
+        font-weight: 600 !important;
+        letter-spacing: 2px !important;
+        font-size: 14px !important;
+        display: block !important;
+        margin-left: -10px;
+        margin-right: -10px;
+        margin-top: -20px;
+    }
+    #block2112 .landing-block-node-button:hover {
+        background-color: rgba(255, 255, 255, 0) !important;
+        color: #222222 !important;
+    }
+    #block2112 .container.g-pos-rel .row .col-sm-12.col-lg-6.g-pt-30.g-pt-0--lg.align-self-center {
+        padding: 60px 30px 30px 30px !important;
+    }
+    #block2112 .col-sm-12.col-lg-6.js-animation.fadeInLeft.landing-block-node-form.align-self-center {
+        margin-bottom: -120px;
+    }
+    #block2112 .landing-block-node-text.landing-semantic-text-medium {
+        margin-top: 40px !important;
+    }
+    #block2112 .col-sm-12.col-lg-6.g-pt-30.g-pt-0--lg.align-self-center {
+        margin-top: 30px !important;
+        margin-bottom: 30px !important;
+    }
+    /* Mobile Block2112 - Расскажите о вашей задаче + form - end  */
+
+
+    /* Mobile Block928 - Гордимся уникальным штатом экспертов - start */
+    #block928 section.landing-block.g-pt-auto.g-mt-auto.g-pb-auto {
+        margin-bottom: -30px !important;
+    }
+    #block928 h2.landing-block-node-card-title.landing-semantic-title-image-medium p {
+        font-size: 40px !important;
+    }
+    #block928 .landing-block-node-card-button-container a {
+        padding: 30px !important;
+    }
+
+    /* Mobile Block928 - Гордимся уникальным штатом экспертов - end */
+
+
+    /* Mobile Block366 - Section Title - Новости - start */
+    #block366 h2.landing-block-node-title.landing-semantic-title-medium {
+        font-size: 40px !important;
+    }
+    /* Mobile Block366 - Section Title - Новости - end */
+
+
+    /* Mobile Block362 - Наши клиенты - start */
+    #block362 h2.landing-block-node-title.landing-semantic-title-medium {
+        font-size: 40px !important;
+    }
+    /* Mobile Block362 - Наши клиенты - end */
+
+
+    /* Mobile Block2177 Footer - start */
+    #block2177 .landing-block.landing-block-node-bgimg.landing-semantic-color-overlay {
+        padding-top: 60px !important;
+        padding-bottom: 500px !important;
+    }
+    /* Mobile Block2177 Footer - end */
+}
+/* Mobile - end */
+
+
+
+/* Tablet - start */
+/* Tablet horizontal - start */
+@media only screen and (max-width: 1024px) {
+
+    /* Tablet horizontal Carousel - start */
+    #block266 .landing-block-node-card-img {
+        align-items: flex-start !important;
+        padding-top: 100px !important;
+        background-position: 70% 50% !important;
+        padding-left: 32px !important;
+        padding-right: 32px !important;
+    }
+    /* Tablet horizontal Carousel - end */
+
+
+    /* Tablet horizontal Sections Наши услуги - start */
+    #block914 .g-min-height-90vh, #block916 .g-min-height-90vh, #block2382 .g-min-height-90vh, #block2386 .g-min-height-90vh, #block2384 .g-min-height-90vh {
+        min-height: 60vh !important;
+    }
+    #block914 .landing-block-node-img, #block916 .landing-block-node-img, #block2382 .landing-block-node-img,
+    #block2386 .landing-block-node-img, #block2384 .landing-block-node-img {
+        padding-left: 32px !important;
+        padding-right: 32px !important;
+    }
+    #block916 .landing-block-node-container, #block2386 .landing-block-node-container {
+        padding-left: 45vw !important;
+    }
+    #block914 h2.landing-block-node-title, #block914 .landing-block-node-text, #block2382 h2.landing-block-node-title, #block2382 .landing-block-node-text,
+    #block2384 h2.landing-block-node-title, #block2384 .landing-block-node-text {
+        max-width: 45% !important;
+    }
+    /* Tablet horizontal Sections Наши услуги - start */
+
+
+    /* Tablet horizontal - Footer Newsletter - start  */
+    #block2147 .landing-block.landing-block-node-bgimg {
+        height: 450px !important;
+    }
+    #block2147 .bitrix24forms {
+        padding: 0 !important;
+    }
+    #block2147 .landing-block.landing-block-node-bgimg {
+        background-image: url('https://dsg.dev.riverstart.ru/images/Newsletter-home-tablet-1024x768.png') !important;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: #e5e5e5;
+        width: 100% !important;
+    }
+    /* Tablet horizontal - Footer Newsletter - end  */
+}
+/* Tablet horizontal - end */
+
+
+/* Tablet vertical - start */
+@media only screen and (max-width: 768px) {
+
+    /* Tablet vertical Nav - start */
+    .navbar-collapse {
+        max-height: 100% !important;
+        width: 100% !important;
+        background-color: #fff !important;
+        margin: -100px -30px 0 -30px !important;
+    }
+    ul.landing-block-node-menu-list {
+        padding: 30px 20px 0 20px !important;
+        margin-top: 100px !important;
+    }
+    li.landing-block-node-menu-list-item a.landing-block-node-menu-list-item-link {
+        font-size: 20px !important;
+        margin-top: 20px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    li.landing-block-node-menu-list-item.active {
+        border-bottom: 0 !important;
+        padding-bottom: 0;
+    }
+    ul.landing-block-node-menu-list li:last-child a {
+        margin-bottom: 30px !important;
+        text-decoration-style: dashed !important;
+        text-decoration-line: underline !important;
+        text-decoration-color: rgba(0, 0, 0, 0.2) !important;
+        border-bottom: 0 currentColor !important;
+        border-bottom-color: #fff !important;
+    }
+
+    /* Tablet vertical Nav - start */
+
+
+    /* Tablet vertical Carousel - start */
+    #block266 .landing-block-node-card-img {
+        align-items: flex-start !important;
+        background-position: 65% 50% !important;
+        padding-top: 100px !important;
+    }
+    #block266 .js-carousel .js-slide:nth-child(2) .landing-block-node-card-img {
+        background-position: 57% 50% !important;
+    }
+    /* Tablet vertical Carousel - end */
+
+
+    /* Tablet vertical Sections Наши услуги - start */
+    #block914 h2.landing-block-node-title, #block2382 h2.landing-block-node-title, #block2384 h2.landing-block-node-title,
+    #block916 h2.landing-block-node-title, #block2386 h2.landing-block-node-title {
+        font-size: 40px !important;
+    }
+    /* Tablet vertical Sections Наши услуги - end */
+
+
+    /* Tablet vertical - Расскажите о вашей задаче + form - start  */
+    #block926 .landing-block-node-bgimg .row {
+        flex-direction: column-reverse !important;
+    }
+    #block926 .container {
+        padding-top: 30px !important;
+    }
+    #block926 a.landing-block-node-button {
+        margin-bottom: 60px !important;
+    }
+    /* Tablet vertical - Расскажите о вашей задаче + form - end  */
+
+
+    /* Tablet vertical - Carousel Наши клиенты - start */
+    #block364 div.js-prev, #block364 div.js-next {
+        display: none !important;
+    }
+    /* Tablet vertical - Carousel Наши клиенты - start */
+
+
+    /* Tablet vertical Newsletter - start */
+    #block2147 .landing-block.landing-block-node-bgimg.landing-semantic-color-overlay.g-pos-rel.g-bg-size-cover.g-bg-img-hero.g-bg-cover {
+        background-image: url('https://dsg.dev.riverstart.ru/images/newsletter-home-tablet-vertical-768x1024.png') !important;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: #e5e5e5;
+        width: 100% !important;
+    }
+    #block2147 .bitrix24forms {
+        width: 65vw !important;
+        margin-left: -70px !important;
+    }
+    #block2147 .bitrix24forms {
+        margin-top: 0 !important;
+    }
+    /* Tablet vertical Newsletter - end */
+}
+/* Tablet vertical - end*/
+/* Tablet - end */
+
+
+/* Mobil horizontal - start */
+@media only screen and (max-width: 1023px) and (orientation: landscape) {
+
+    /* Mobil horizontal Nav - start */
+    .navbar-collapse {
+        max-height: 100% !important;
+        width: 100% !important;
+        background-color: #fff !important;
+        margin: -100px -80px 0 -80px !important;
+    }
+    ul.landing-block-node-menu-list {
+        padding: 30px 80px 0 80px !important;
+        margin-top: 100px !important;
+    }
+    li.landing-block-node-menu-list-item a.landing-block-node-menu-list-item-link {
+        font-size: 20px !important;
+        margin-top: -5px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    li.landing-block-node-menu-list-item.active {
+        border-bottom: 0 !important;
+        padding-bottom: 0;
+    }
+    ul.landing-block-node-menu-list li:last-child a {
+        margin-bottom: 30px !important;
+        text-decoration-style: dashed !important;
+        text-decoration-line: underline !important;
+        text-decoration-color: rgba(0, 0, 0, 0.2) !important;
+        border-bottom: 0 currentColor !important;
+        border-bottom-color: #fff !important;
+    }
+    /* Mobil horizontal Nav - start */
+
+
+    /* Mobile horizontal Carousel - start */
+    #block266 h2.landing-block-node-card-title {
+        font-size: 50px !important;
+    }
+    #block266 .landing-block-node-card-text, #block266 .landing-block-node-card-text p {
+        font-size: 20px !important;
+    }
+    .landing-block-node-card-button-container a {
+        padding: 20px 60px 20px 60px !important;
+    }
+    /* Mobile horizontal Carousel - end */
+
+
+    /* Mobile horizontal Наши услуги Title - start */
+    #block1630 h3.landing-block-node-title {
+        font-size: 40px !important;
+    }
+    /* Mobile horizontal Наши услуги Title - end */
+
+
+    /* Mobile horizontal Наши услуги Sections - start */
+    #block914 h2.landing-block-node-title, #block2382 h2.landing-block-node-title, #block2384 h2.landing-block-node-title,
+    #block916 h2.landing-block-node-title, #block2386 h2.landing-block-node-title {
+        font-size: 30px !important;
+    }
+    /* Mobile horizontal Наши услуги Sections - start */
+
+
+    /* Mobile horizontal - Расскажите о вашей задаче + form - start  */
+    #block926 .landing-block-node-bgimg .row {
+        flex-direction: column-reverse !important;
+    }
+    #block926 .container {
+        padding-top: 30px !important;
+    }
+    #block926 a.landing-block-node-button {
+        margin-bottom: 60px !important;
+    }
+        #block926 section .landing-block-node-bgimg .container .row div:nth-child(2) {
+        width: 75% !important;
+    }
+/*    #block926 section .landing-block-node-bgimg .container .row div:nth-child(2) h3.landing-block-node-title span {
+        font-size: 40px !important;
+    }*/
+    #block926 h3.landing-block-node-title span {
+        font-size: 40px !important;
+        line-height: normal !important;
+    }
+
+
+    /* Mobile horizontal - Расскажите о вашей задаче + form - end  */
+
+    /* Mobile horizontal - Гордимся уникальным штатом экспертов - start  */
+    #block928 h2.landing-block-node-card-title {
+        font-size: 40px !important;
+    }
+    /* Mobile horizontal - Гордимся уникальным штатом экспертов - end  */
+
+    /* Mobile horizontal - Новости, акции, лайфхаки и мероприятия - start  */
+    #block366 h2.landing-block-node-title {
+        font-size: 40px !important;
+    }
+    /* Mobile horizontal - Новости, акции, лайфхаки и мероприятия - end  */
+
+    /* Mobile horizontal - Наши клиенты - start */
+    #block362 h3.landing-block-node-title {
+        font-size: 40px !important;
+    }
+    /* Mobile horizontal - Наши клиенты - end */
+
+    /* Mobile horizontal Newsletter - start */
+    #block2147 .landing-block.landing-block-node-bgimg.landing-semantic-color-overlay.g-pos-rel.g-bg-size-cover.g-bg-img-hero.g-bg-cover {
+        background-image: url('https://dsg.dev.riverstart.ru/images/newsletter-mobile-horizontal.png') !important;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: #e5e5e5;
+        width: 100% !important;
+    }
+    #block2147 .bitrix24forms {
+        width: 65vw !important;
+        margin-left: -70px !important;
+    }
+    #block2147 .bitrix24forms {
+        margin-top: 0 !important;
+    }
+    /* Mobile horizontal Newsletter - end */
+}
+/* Mobil horizontal - end */
+/* Page Front Page - end */
+
+
+
+
+
+
+/* Page Промышленная печать - start */
+/* Block2462 - Офисное оборудование - start */
+#block2462 .g-bg-pattern-gray-v1 {
+    background-image: url('https://dsg.dev.riverstart.ru/images/DS-Group-Office-Equipment.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#block2462 h4.landing-block-node-subtitle {
+    display: none;
+}
+
+#block2462 h2.landing-block-node-title {
+    font-size: 45px !important;
+    color: #222 !important;
+    text-transform: none !important;
+    font-weight: 500 !important;
+}
+
+#block2462 h2.landing-block-node-title span {
+    display: none;
+}
+
+#block2462 .landing-block-node-text p {
+    color: #2c2c2c !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+}
+
+#block2462 .container.px-0, #block2462 .landing-block-node-card {
+    width: 600px !important;
+    background-color: #fff !important;
+}
+
+#block2462 h3.landing-block-node-card-title {
+    color: #222222 !important;
+    font-weight: 900 !important;
+    font-size: 13px !important;
+    letter-spacing: 3px !important;
+}
+
+#block2462 .landing-block-node-card-text p {
+    color: #222222 !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+#block2462 figure.g-overflow-hidden {
+    overflow: visible !important;
+    height: 50px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+#block2462 img.landing-block-node-card-img {
+    height: 50px !important;
+}
+
+#block2462 article.u-block-hover {
+    padding: 80px 60px 40px 60px !important;
+}
+
+#block2462 button.slick-prev.slick-arrow, #block2462 button.slick-next.slick-arrow {
+    top: -60px !important;
+    width: 80px !important;
+    height: 80px !important;
+}
+
+#block2462 button.slick-prev.slick-arrow {
+    left: 36% !important;
+}
+
+#block2462 button.slick-next.slick-arrow {
+    right: 36% !important;
+}
+
+#block2462 .slick-prev:before, #block2462 .slick-next:before {
+    color: #222 !important;
+    padding: 20px 25px !important;
+    border-radius: 50% !important;
+    opacity: 1 !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#block2462 .slick-prev:hover, #block2462 .slick-next:hover {
+    opacity: 0.75 !important;
+}
+
+#block2462 section .container.text-center.g-max-width-750.g-mb-30 {
+    margin-bottom: 120px !important;
+}
+
+#block2462 .slick-prev:before {
+    content: "<" !important;
+    background-color: #D6D898 !important;
+}
+
+#block2462 .slick-next:before {
+    content: ">" !important;
+    background-color: #fff !important;
+}
+
+@media only screen and (max-width: 600px) {
+    #block2462 .container.px-0, #block2462 .landing-block-node-card {
+        width: 100% !important;
+    }
+
+    #block2462 article.u-block-hover {
+        padding: 30px 20px 20px 20px !important;
+    }
+
+    #block2462 .g-bg-pattern-gray-v1 {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    #block2462 button.slick-prev.slick-arrow {
+        left: 27% !important;
+    }
+
+    #block2462 button.slick-next.slick-arrow {
+        right: 27% !important;
+    }
+
+    /*    #block2462 .slick-prev:before, #block2462 .slick-next:before {
+            display: none;
+        }*/
+}
+
+/* Block2177 - Офисное оборудование - end */
+
+
+
+
+
